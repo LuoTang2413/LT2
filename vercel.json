@@ -1,0 +1,8 @@
+{
+  "builds": [
+    {
+      "src": "LT2/feishu-robot.py",
+      "use": "@vercel/python"
+    }
+  ]
+}
